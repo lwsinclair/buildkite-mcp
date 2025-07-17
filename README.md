@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/drew-goddyn-buildkite-mcp-badge.png)](https://mseep.ai/app/drew-goddyn-buildkite-mcp)
+
 # Buildkite MCP Server
 
 A microservice for retrieving information from Buildkite via Model Context Protocol (MCP).
